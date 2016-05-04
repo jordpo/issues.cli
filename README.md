@@ -60,7 +60,7 @@ If [available in Hex](https://hex.pm/docs/publish), the package can be installed
 
 **TODO: Add description**
 
-## Create an anchor
+## Anchors in markdown
 
 If [available in Hex](https://hex.pm/docs/publish), the package can be installed as:
 
